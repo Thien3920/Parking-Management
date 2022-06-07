@@ -1,0 +1,13 @@
+#python 3.6
+certifi==2021.10.8
+flatbuffers==2.0
+protobuf==3.19.1
+pyclipper==1.3.0.post2
+Shapely==1.8.0
+six==1.16.0
+onnx
+onnxruntime-gpu==1.10.0
+cython
+opencv-python==3.4.8.29
+pymongo
+Pyqt5
